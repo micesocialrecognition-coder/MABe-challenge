@@ -1,0 +1,14 @@
+.DS_Store
+**/.DS_Store
+.DS_Store
+**/.DS_Store
+__pycache__/
+**/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+.pytest_cache/
+.mypy_cache/
+.venv/
+venv/
